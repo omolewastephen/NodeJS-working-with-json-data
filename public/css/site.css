@@ -1,0 +1,26 @@
+.navbar-default{
+    background: rgb(156, 3, 3);
+    color: #000;
+    border: 0;
+    border-radius: 0;
+    box-shadow: 1px 4px 2px rgb(194, 193, 193);
+}
+body{
+    background: rgb(226, 225, 225);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar-default .navbar-brand{
+    color: #fff;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 30px; 
+}
+.navbar-default .navbar-brand:hover{
+    color: rgb(233, 231, 231);
+}
+.navbar-default .navbar-nav > li > a{
+    color: #fff;
+    font-weight:bold;
+}
+h2{
+    color:rgb(156, 3, 3);
+}
